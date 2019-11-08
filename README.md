@@ -1,6 +1,6 @@
 # Drone Flight Analysis
 
-In this notebook, I analyze 500 drone flights and look for anomalies.  
+In this notebook, I analyze drone flights and look for anomalies.  
 
 ### Data
 
